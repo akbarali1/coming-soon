@@ -11,4 +11,4 @@ Menimcha qolgani tayyor.
 
 Rasmlarini o'zgartirmoqchi bo'lsangiz index.php faylidagi 26 qatordan boshlab pasdagi rasmlarni o`zgartiring.
 
-![Image 1](skin 2.png)
+![Image 1](https://raw.githubusercontent.com/akbarali1/coming-soon/main/skin%202.png)
