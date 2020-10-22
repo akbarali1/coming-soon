@@ -8,6 +8,7 @@ Eslatma: Bu shablonni  men yozmaganman meni qilgan ishim php kodlarni yozidm aja
 O`rnatish:
 * ajax/request.php ga DB ma'lumotlarini yozing.
 * DB.zip ichidagi SQLni bazaga yuboring.
+* /js/main.js faylining 2 qatorini sayt ochiladigan sanaga moslab qo'ying
 
 Menimcha qolgani tayyor.
 
