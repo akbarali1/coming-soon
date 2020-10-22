@@ -3,6 +3,8 @@
 
 Bu oddiy shablon bolib ko`rinishini skin nomli fayllardan korishingiz mumkun. 
 
+Eslatma: Buni men yozmaganman meni qilgan ishim php kodlarni yozidm ajax jquery orqali DBga ma'lumot saqlashni yo'lga qo'ydim
+
 O`rnatish:
 * ajax/request.php ga DB ma'lumotlarini yozing.
 * DB.zip ichidagi SQLni bazaga yuboring.
