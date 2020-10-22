@@ -10,3 +10,5 @@ O`rnatish:
 Menimcha qolgani tayyor.
 
 Rasmlarini o'zgartirmoqchi bo'lsangiz index.php faylidagi 26 qatordan boshlab pasdagi rasmlarni o`zgartiring.
+
+![Rasm 1 ](“skin 2.png”)
