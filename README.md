@@ -3,7 +3,7 @@
 
 Bu oddiy shablon bolib ko`rinishini skin nomli fayllardan korishingiz mumkun. 
 
-Eslatma: Bu shablonni  men yozmaganman meni qilgan ishim php kodlarni yozidm ajax jquery orqali DBga ma'lumot saqlashni yo'lga qo'ydim
+Eslatma: Bu shablonni  men yozmaganman meni qilgan ishim php kodlarni yozidm ajax jquery orqali DBga ma'lumot saqlashni yo'lga qo'ydim va JS soatni orqaga sanashni va belgilangan muddatgacha hisoblashni js/main.js faylini qo'ydim
 
 O`rnatish:
 * ajax/request.php ga DB ma'lumotlarini yozing.
@@ -12,8 +12,7 @@ O`rnatish:
 
 Menimcha qolgani tayyor.
 
-Rasmlarini o'zgartirmoqchi bo'lsangiz index.php faylidagi 26 qatordan boshlab pasdagi rasmlarni o`zgartiring.
-
+Rasmlarini o'zgartirmoqchi bo'lsangiz index.php faylidagi 26 qatordan boshlab pasdagi rasmlarni o'zgartiring.
 ![Image](https://raw.githubusercontent.com/akbarali1/coming-soon/main/skin%202.png)
 ![Image](https://raw.githubusercontent.com/akbarali1/coming-soon/main/skin.png)
 ![Image](https://raw.githubusercontent.com/akbarali1/coming-soon/main/skin3.png)
