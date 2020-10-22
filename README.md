@@ -4,8 +4,8 @@
 Bu oddiy shablon bolib ko`rinishini skin nomli fayllardan korishingiz mumkun. 
 
 O`rnatish:
-* 1. ajax/request.php ga DB ma'lumotlarini yozing.
-* 2. DB.zip ichidagi SQLni bazaga yuboring.
+* ajax/request.php ga DB ma'lumotlarini yozing.
+* DB.zip ichidagi SQLni bazaga yuboring.
 
 Menimcha qolgani tayyor.
 
